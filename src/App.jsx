@@ -5,18 +5,24 @@ import Block from './components/block'
 import SecondBlock from './components/SecondBlock'
 import Award from './components/Award'
 import Projects from './components/Projects'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 const App = () => {
   return (
-    <>
-      <Navbar />
-      <Banner />
-      <Block />
-      <SecondBlock />
-      <Award />
-      <Projects />
-      
-    </>
+    <Router basename="/MorescoUK/">
+      <Routes>
+        <Route exact path="/" element={[
+          <Navbar />,
+          <Banner />,
+          <Block />,
+          <SecondBlock />,
+          <Award />,
+          <Projects />
+        ]} />
+      </Routes>
+
+
+    </Router>
   )
 }
 
