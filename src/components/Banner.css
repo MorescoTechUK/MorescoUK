@@ -1,8 +1,9 @@
 .banneruppertext{
         font-size: 18rem;
-            background-image: url(https://www.spinxdigital.com/app/themes/spinxdigital/assets/images/hero-txt-img.jpg);
+            background: url(https://www.spinxdigital.com/app/themes/spinxdigital/assets/images/hero-txt-img.jpg);
             -webkit-background-clip: text;
             color: transparent;
             background-size: cover;
             background-clip: text;
+            
 }

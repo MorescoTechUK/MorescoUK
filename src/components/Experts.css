@@ -1,0 +1,11 @@
+.maintext4 {
+        background: linear-gradient(90deg, #e1ff00, #1cc574, #00bd84);
+         background-clip: text;
+    -webkit-background-clip: text;
+
+}
+
+.client-block {
+    border: 1px solid #6f6f6f66;
+    padding: 5.45rem;
+}

@@ -1,0 +1,39 @@
+.maintext5 {
+    background: linear-gradient(90deg, #4075fd, #f466c4);
+    background-clip: text;
+    -webkit-background-clip: text;
+font-size: 11rem;
+}
+
+.play{
+    height: 12rem;
+        width: 12rem;
+        /* border: 1px; */
+        border-color: #b4e300;
+        border-radius: 12rem;
+
+        a{
+            display: none;
+        }
+}
+video{
+    border-radius: 50%;
+}
+
+.play:hover{
+    p{
+
+        display: none;
+    }
+a{
+    display: block;
+    video{
+        height: 100%;
+        width: 100%;
+        
+        object-fit: cover;
+    }
+}
+
+}
+

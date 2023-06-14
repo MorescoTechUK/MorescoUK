@@ -1,0 +1,10 @@
+.maintext3{
+    background: linear-gradient(90deg, #8a51fe, #628aff, #36cfff);
+    background-clip: text;
+        -webkit-background-clip: text;
+}
+
+ .active{
+    background: white;
+        padding: 4rem;
+}
