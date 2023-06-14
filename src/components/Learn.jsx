@@ -4,7 +4,7 @@ import "./Learn.css"
 const Learn = () => {
     return (
         <>
-            <div className="container mx-auto mt-40 mb-40">
+            <div className="container mx-auto my-40">
                 <div className=" text-transparent text-8xl font-bold leading-normal maintext6">
                     Learn
                 </div>
