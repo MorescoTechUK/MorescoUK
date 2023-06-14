@@ -1,5 +1,5 @@
 import React from 'react'
-import './process.scss'
+import './Process.scss'
 import { useState } from 'react'
 
 
