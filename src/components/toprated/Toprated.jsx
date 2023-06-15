@@ -12,7 +12,20 @@ const Toprated = () => {
                   
               <hr /> 
               
-              <div className=" flex justify-between my-16">
+              <div data-aos="fade-up" className=" flex justify-between my-16">
+                  <div  className="text-7xl w-2/6 font-semibold">
+                      Longevity
+                  </div>
+                  <div className="w-3/6 description text-2xl opacity-90">
+                      <div className='w-4/6'>Born and bred in Los Angeles since 2004, SPINX Digital is highly respected in the industry and is a step ahead amongst the top websites and </div>
+
+                  </div>
+
+                  
+              </div>
+              <hr /> 
+              
+              <div data-aos="fade-up"  className=" flex justify-between my-16">
                   <div className="text-7xl w-2/6 font-semibold">
                       Longevity
                   </div>
@@ -25,7 +38,7 @@ const Toprated = () => {
               </div>
               <hr /> 
               
-              <div className=" flex justify-between my-16">
+              <div data-aos="fade-up" className=" flex justify-between my-16">
                   <div className="text-7xl w-2/6 font-semibold">
                       Longevity
                   </div>
@@ -38,20 +51,7 @@ const Toprated = () => {
               </div>
               <hr /> 
               
-              <div className=" flex justify-between my-16">
-                  <div className="text-7xl w-2/6 font-semibold">
-                      Longevity
-                  </div>
-                  <div className="w-3/6 description text-2xl opacity-90">
-                      <div className='w-4/6'>Born and bred in Los Angeles since 2004, SPINX Digital is highly respected in the industry and is a step ahead amongst the top websites and </div>
-
-                  </div>
-
-                  
-              </div>
-              <hr /> 
-              
-              <div className=" flex justify-between my-16">
+              <div data-aos="fade-up" className=" flex justify-between my-16">
                   <div className="text-7xl w-2/6 font-semibold">
                       Longevity
                   </div>
@@ -64,7 +64,7 @@ const Toprated = () => {
               </div>
               <hr /> 
               
-              <div className=" flex justify-between my-16">
+              <div data-aos="fade-up" className=" flex justify-between my-16">
                   <div className="text-7xl w-2/6 font-semibold">
                       Longevity
                   </div>

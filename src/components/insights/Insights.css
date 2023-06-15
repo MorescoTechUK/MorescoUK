@@ -1,0 +1,27 @@
+.maintext10 {
+    background: linear-gradient(90deg, #ff4672, #ffa26b 15%, #fee4b1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-size: 3vw;
+}
+
+/* .email input{
+    font-size: 2.5rem;
+    outline:none
+}
+.email input::-webkit-input-placeholder{
+    
+text-decoration: underline;
+}
+.email input::-moz-placeholder{
+    
+text-decoration: underline;
+}
+.email input:-moz-placeholder{
+    
+text-decoration: underline;
+}
+.email input:-ms-input-placeholder{
+    
+text-decoration: underline;
+} */

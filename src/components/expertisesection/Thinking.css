@@ -1,0 +1,9 @@
+.maintext12 {
+    font-size: 10vw;
+    background: linear-gradient(90deg, #a2aaf0, #a88fef, #cd32e3);
+    -webkit-background-clip: text;
+    color: transparent;
+    background-size: cover;
+    background-clip: text;
+
+}

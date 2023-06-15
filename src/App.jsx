@@ -1,31 +1,37 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Banner from './components/Banner'
-import Block from './components/Block'
-import SecondBlock from './components/SecondBlock'
-import Award from './components/Award'
-import Projects from './components/Projects'
+import Navbar from './components/navbar/Navbar'
+import Banner from './components/banner/Banner'
+import Block from './components/block/Block'
+import SecondBlock from './components/secondblock/SecondBlock'
+import Award from './components/award/Award'
+import Projects from './components/projects/Projects'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
-import Weare from './components/Weare'
+import Weare from './components/weare/Weare'
 import Toprated from './components/toprated/Toprated'
-import Helping from './components/Helping'
-import Expertise from './components/Expertise'
-import Experts from './components/Experts'
-import Process from './components/Process'
-import Learn from './components/Learn'
-import Uniquely from './components/Uniquely'
+import Helping from './components/helping/Helping'
+import Expertise from './components/expertise/Expertise'
+import Experts from './components/experts/Experts'
+import Process from './components/process/Process'
+import Learn from './components/learn/Learn'
+import Uniquely from './components/uniquely/Uniquely'
 
 import './App.css'
-import DiveIn from './components/DiveIn'
-import Start from './components/Start'
-import Footer from './components/Footer'
+import DiveIn from './components/divein/DiveIn'
+import Start from './components/start/Start'
+import Footer from './components/footer/Footer'
+import Work from './components/work/Work'
+import About from './components/about/About'
+import Insights from './components/insights/Insights'
+import Thinking from './components/expertisesection/Thinking'
 
 const App = () => {
   return (
     <Router basename="/MorescoUK/">
+      <Navbar />
       <Routes>
+        
         <Route exact path="/" element={[
-          <Navbar />,
+          
           <Banner />,
           <Block />,
           <SecondBlock />,
@@ -41,11 +47,16 @@ const App = () => {
           <Uniquely />,
           <DiveIn />,
           <Start />,
-          <Footer/>
+          
         ]} />
+
+        <Route exact path='/work' element={<Work/>}/>
+        <Route exact path='/about' element={<About/>}/>
+        <Route exact path='/insights' element={<Insights/>}/>
+        <Route exact path='/expertise' element={<Thinking/>}/>
       </Routes>
 
-
+      <Footer />
     </Router>
   )
 }

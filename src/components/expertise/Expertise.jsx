@@ -17,7 +17,7 @@ const Expertise = () => {
                     <div className="w-4/6 text-white text-2xl  flex justify-end items-center">
                         <div className="w-5/6">
                             <div className="hs-accordion-group" data-hs-accordion-always-open>
-                                <div className="hs-accordion active" id="hs-basic-always-open-heading-one" style={{border:"1px solid gray",padding:"1.7rem"}}>
+                                <div className="hs-accordion active" id="hs-basic-always-open-heading-one" style={{border:"1px solid gray",padding:"4rem"}}>
                                     <button className="hs-accordion-toggle hs-accordion-active:text-black py-3 inline-flex items-center gap-x-3 w-full font-semibold text-left text-gray-800 transition hover:text-white dark:hs-accordion-active:text-black dark:text-gray-200 dark:hover:text-white" aria-controls="hs-basic-always-open-collapse-one">
                                         <svg className="hs-accordion-active:hidden hs-accordion-active:text-black hs-accordion-active:group-hover:text-black block w-3 h-3 text-white group-hover:text-white dark:text-white" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M2.62421 7.86L13.6242 7.85999" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
@@ -53,7 +53,7 @@ const Expertise = () => {
                                     </div>
                                 </div>
 
-                                <div className="hs-accordion" id="hs-basic-always-open-heading-two" style={{ border: "1px solid gray", padding: "1.7rem" }}>
+                                <div className="hs-accordion" id="hs-basic-always-open-heading-two" style={{ border: "1px solid gray", padding: "4rem" }}>
                                     <button className="hs-accordion-toggle hs-accordion-active:text-black py-3 inline-flex items-center gap-x-3 w-full font-semibold text-left text-gray-800 transition hover:text-white dark:hs-accordion-active:text-black dark:text-gray-200 dark:hover:text-white" aria-controls="hs-basic-always-open-collapse-two">
                                         <svg className="hs-accordion-active:hidden hs-accordion-active:text-black hs-accordion-active:group-hover:text-black block w-3 h-3 text-white group-hover:text-white dark:text-white" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M2.62421 7.86L13.6242 7.85999" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
@@ -71,7 +71,7 @@ const Expertise = () => {
                                     </div>
                                 </div>
 
-                                <div className="hs-accordion" id="hs-basic-always-open-heading-three" style={{ border: "1px solid gray", padding: "1.7rem" }}>
+                                <div className="hs-accordion" id="hs-basic-always-open-heading-three" style={{ border: "1px solid gray", padding: "4rem" }}>
                                     <button className="hs-accordion-toggle hs-accordion-active:text-black py-3 inline-flex items-center gap-x-3 w-full font-semibold text-left text-gray-800 transition hover:text-white dark:hs-accordion-active:text-black dark:text-gray-200 dark:hover:text-white" aria-controls="hs-basic-always-open-collapse-three">
                                         <svg className="hs-accordion-active:hidden hs-accordion-active:text-black hs-accordion-active:group-hover:text-black block w-3 h-3 text-white group-hover:text-white dark:text-white" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M2.62421 7.86L13.6242 7.85999" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
@@ -89,7 +89,7 @@ const Expertise = () => {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="hs-accordion" id="hs-basic-always-open-heading-three" style={{ border: "1px solid gray", padding: "1.7rem" }}>
+                                <div className="hs-accordion" id="hs-basic-always-open-heading-three" style={{ border: "1px solid gray", padding: "4rem" }}>
                                     <button className="hs-accordion-toggle hs-accordion-active:text-black py-3 inline-flex items-center gap-x-3 w-full font-semibold text-left text-gray-800 transition hover:text-white dark:hs-accordion-active:text-black dark:text-gray-200 dark:hover:text-white" aria-controls="hs-basic-always-open-collapse-three">
                                         <svg className="hs-accordion-active:hidden hs-accordion-active:text-black hs-accordion-active:group-hover:text-black block w-3 h-3 text-white group-hover:text-white dark:text-white" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M2.62421 7.86L13.6242 7.85999" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
@@ -107,7 +107,7 @@ const Expertise = () => {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="hs-accordion" id="hs-basic-always-open-heading-three" style={{ border: "1px solid gray", padding: "1.7rem" }}>
+                                <div className="hs-accordion" id="hs-basic-always-open-heading-three" style={{ border: "1px solid gray", padding: "4rem" }}>
                                     <button className="hs-accordion-toggle hs-accordion-active:text-black py-3 inline-flex items-center gap-x-3 w-full font-semibold text-left text-gray-800 transition hover:text-white dark:hs-accordion-active:text-black dark:text-gray-200 dark:hover:text-white" aria-controls="hs-basic-always-open-collapse-three">
                                         <svg className="hs-accordion-active:hidden hs-accordion-active:text-black hs-accordion-active:group-hover:text-black block w-3 h-3 text-white group-hover:text-white dark:text-white" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M2.62421 7.86L13.6242 7.85999" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />
@@ -125,7 +125,7 @@ const Expertise = () => {
                                         </p>
                                     </div>
                                 </div>
-                                <div className="hs-accordion" id="hs-basic-always-open-heading-three" style={{ border: "1px solid gray", padding: "1.7rem" }}>
+                                <div className="hs-accordion" id="hs-basic-always-open-heading-three" style={{ border: "1px solid gray", padding: "4rem" }}>
                                     <button className="hs-accordion-toggle hs-accordion-active:text-black py-3 inline-flex items-center gap-x-3 w-full font-semibold text-left text-gray-800 transition hover:text-white dark:hs-accordion-active:text-black dark:text-gray-200 dark:hover:text-white" aria-controls="hs-basic-always-open-collapse-three">
                                         <svg className="hs-accordion-active:hidden hs-accordion-active:text-black hs-accordion-active:group-hover:text-black block w-3 h-3 text-white group-hover:text-white dark:text-white" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
                                             <path d="M2.62421 7.86L13.6242 7.85999" stroke="currentColor" strokeWidth="2" strokeLinecap="round" />

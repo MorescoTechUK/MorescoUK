@@ -45,7 +45,7 @@ const Uniquely = () => {
                         handleClick('3')
                     }} className={present === '3' ? "active" : ""}>
                         <div className="section-title">
-                            <h2 className='text-4xl font-bold'>01 Connect</h2>
+                            <h2 className='text-5xl font-bold'>01 Connect</h2>
                         </div>
                         <div className="section-content">
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur saepe vel facilis quae nihil ad aspernatur ex delectus. Tenetur nulla voluptates similique quos, quia possimus, magnam esse natus quis ipsa.</p>

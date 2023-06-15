@@ -8,7 +8,7 @@ const Projects = () => {
         <div className="heading1  text-8xl font-semibold text-end mb-20">
           Featured Projects
         </div>
-        <div className="flex flex-row py-20">
+        <div data-aos="fade-left" className="flex flex-row py-20">
           <div className='w-2/7 flex flex-col text-white'>
             <span className='text-4xl opacity-80'>Willkie Website Redesign &amp; Development</span><br />
             <h3 className='font-semibold text-5xl'>A High Stakes Legal Website Redesign</h3>
@@ -21,7 +21,7 @@ const Projects = () => {
 
         </div>
       </div>
-      <div className='bg-white'>
+      <div data-aos="fade-right" className=' bg-white'>
         <div className="container mx-auto   ">
           <div className="flex flex-row py-20">
             <div className='w-2/7 flex flex-col text-black'>
@@ -38,7 +38,7 @@ const Projects = () => {
         </div>
 
       </div>
-      <div className="container mx-auto">
+      <div data-aos="fade-left" className="container mx-auto">
         <div className="flex flex-row py-20">
           <div className='w-2/7 flex flex-col text-white'>
             <span className='text-4xl opacity-80'>Willkie Website Redesign &amp; Development</span><br />
@@ -52,7 +52,7 @@ const Projects = () => {
 
         </div>
       </div>
-      <div className='bg-white'>
+      <div data-aos="fade-right" className='bg-white'>
         <div className="container mx-auto">
           <div className="flex flex-row py-20">
             <div className='w-2/7 flex flex-col text-black'>
@@ -71,7 +71,7 @@ const Projects = () => {
         </div >
 
       </div>
-      <div className="container mx-auto">
+      <div data-aos="fade-left" className="container mx-auto">
         <div className="flex flex-row py-20">
           <div className='w-2/7 flex flex-col text-white'>
             <span className='text-4xl opacity-80'>Willkie Website Redesign &amp; Development</span><br />

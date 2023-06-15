@@ -5,7 +5,7 @@ const Learn = () => {
     return (
         <>
             <div className="container mx-auto my-40">
-                <div className=" text-transparent text-8xl font-bold leading-normal maintext6">
+                <div className=" text-transparent  font-bold leading-normal maintext6">
                     Learn
                 </div>
                 {/* <br /> */}

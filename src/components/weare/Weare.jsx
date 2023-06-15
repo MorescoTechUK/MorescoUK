@@ -9,10 +9,10 @@ const Weare = () => {
                     <div className='maintext1 w-2/3' style={{ fontSize: "12rem" }}>
                         We are
                     </div>
-                    <div className='text-6xl text-white leading-normal ' >
+                    <div data-aos="fade-up" className='text-6xl text-white leading-normal ' >
                         Creative Designers, Insightful Strategists, and Exceptional Engineers
                     </div>
-                    <div className="text-2xl text-white font-normal py-20 opacity-70">
+                    <div data-aos="fade-up" className="text-2xl text-white font-normal py-20 opacity-70">
                         We are SPINX Digital in Los Angeles and as innovators in creative website design & digital marketing, we build awesome digital masterpieces!
                     </div>
                 </div>
