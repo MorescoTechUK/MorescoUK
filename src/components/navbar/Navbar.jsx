@@ -49,7 +49,7 @@ export default function Navbar() {
                     >
                         About
                     </Link>
-                    <Link to="/insight"
+                    <Link to="/insights"
                         className="mx-auto lg:text-[1.4vw] block rounded-lg py-2 px-3 text-base font-semibold leading-7 text-white hover:underline hover:underline-offset-4 hover:decoration-2 hover:decoration-green-600"
                     >
                         Insights

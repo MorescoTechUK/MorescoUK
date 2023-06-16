@@ -56,18 +56,18 @@ const About = () => {
                 <div className=" scroll-parent">
                     <div className="scroll-element primary">
                         <div className="flex">
-                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" />
-                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" />
+                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" style={{width:"100%",height:"40vh"}} />
+                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" style={{width:"100%",height:"40vh"}} />
 
-                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" />
+                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" style={{width:"100%",height:"40vh"}} />
                         </div>
 
                     </div>
                     <div className="scroll-element secondary">
                         <div className="flex">
-                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" />
-                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" />
-                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" />
+                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" style={{width:"100%",height:"40vh"}} />
+                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362"  style={{width:"100%",height:"40vh"}} />
+                            <img className="img-fluid mx-auto" alt="" src="https://www.spinxdigital.com/app/uploads/2022/09/about-slider-img2.jpg" width="515" height="362" style={{width:"100%",height:"40vh"}} />
 
                         </div>
                     </div>
