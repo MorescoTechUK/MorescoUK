@@ -6,12 +6,16 @@ const Banner = () => {
     return (
         <>
             <div className="container mx-auto py-4 text-center lg:text-left">
-                <div data-aos="fade" className="  banneruppertext font-bold ">
+                <div
+                    // data-aos="fade"
+                    className="  banneruppertext font-bold text-[24vw] md:text-[18vw] lg:text-[16vw">
 
                     Crafting
 
                 </div>
-                <div data-aos="fade-up" className=' text-white font-bold' style={{fontSize:"6vw"}}>
+                <div
+                    // data-aos="fade-up"
+                    className=' text-white font-bold' style={{ fontSize: "6vw" }}>
                     <p>
 
                         Immersive Digital Stories

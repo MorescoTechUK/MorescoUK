@@ -15,7 +15,6 @@ import Process from './components/process/Process'
 import Learn from './components/learn/Learn'
 import Uniquely from './components/uniquely/Uniquely'
 
-import './App.css'
 import DiveIn from './components/divein/DiveIn'
 import Start from './components/start/Start'
 import Footer from './components/footer/Footer'
@@ -23,6 +22,8 @@ import Work from './components/work/Work'
 import About from './components/about/About'
 import Insights from './components/insights/Insights'
 import Thinking from './components/expertisesection/Thinking'
+
+import './App.css'
 
 const App = () => {
   return (

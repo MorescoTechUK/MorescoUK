@@ -2,7 +2,7 @@
 background: linear-gradient(90deg, #38f5f7, #9cc7f1, #7597f9);
 background-clip: text;
 -webkit-background-clip: text;
-
+color: transparent;
 }
 
 .client-block{
